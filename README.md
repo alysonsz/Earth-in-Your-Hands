@@ -1,5 +1,5 @@
 # NASA SPACE APPS CHALLENGE 2024
-# Earth in Your Hands 🌍
+# Earth in Your Hands 🌍🙌
 
 **Earth in Your Hands** is a cross-platform educational game that empowers middle school students to understand the impact of climate change through interactive simulations. Players take on the role of environmental scientists managing the policies of a country, making critical decisions that influence CO2 and CH4 emissions, and ultimately influence global climate outcomes.
 
